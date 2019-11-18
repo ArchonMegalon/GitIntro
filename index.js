@@ -1,1 +1,3 @@
-console.log('Hello World');
+function execClick() {
+  console.log('Hello World');
+}
